@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MatrixReact/static/css/main.78bed3d2.css",
+    "main.js": "/MatrixReact/static/js/main.d8866810.js",
+    "index.html": "/MatrixReact/index.html",
+    "main.78bed3d2.css.map": "/MatrixReact/static/css/main.78bed3d2.css.map",
+    "main.d8866810.js.map": "/MatrixReact/static/js/main.d8866810.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78bed3d2.css",
+    "static/js/main.d8866810.js"
+  ]
+}
